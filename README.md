@@ -1,13 +1,8 @@
-# Awesome-Modular-Blockchain
+# Awesome-Modular-Blockchain  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 ![PaulChadeisson_04_Constantinople4700AD](https://user-images.githubusercontent.com/82381764/166100257-05f93fb4-db07-4d8e-bc52-4b8f15ec55f2.jpeg)
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/sindresorhus/awesome">
-      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-    </a>
-  </p>
-</div>
+
 ## Article
 [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html) - Vitalik
 
