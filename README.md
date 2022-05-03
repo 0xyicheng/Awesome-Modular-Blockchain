@@ -13,6 +13,7 @@
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape](https://blog.celestia.org/clusters/) - Mustafa Al-Bassam
 
 ## Execution Layer
+- [Increasing scalability of the EVM for rollups by restricting state and contract set](https://forum.celestia.org/t/increasing-scalability-of-the-evm-for-rollups-by-restricting-state-and-contract-set/78#cache-improvement-through-predictable-access-5) - mattdf
 #### (1) Rollup
 - [Layer-2 for Beginners](https://gourmetcrypto.substack.com/p/layer-2-for-beginners) - Gourmet Crypto
 - [Layer 2 Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/) - Ethereum
