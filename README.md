@@ -18,7 +18,7 @@
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape](https://blog.celestia.org/clusters/) - Mustafa Al-Bassam
 
 ## Execution Layer
-- [Increasing scalability of the EVM for rollups by restricting state and contract set](https://forum.celestia.org/t/increasing-scalability-of-the-evm-for-rollups-by-restricting-state-and-contract-set/78#cache-improvement-through-predictable-access-5) - mattdf
+- [Increasing scalability of the EVM for rollups by restricting state and contract set](https://forum.celestia.org/t/increasing-scalability-of-the-evm-for-rollups-by-restricting-state-and-contract-set/78#cache-improvement-through-predictable-access-5) - Mustafa Al-Bassam
 #### (1) Rollup
 - [Layer-2 for Beginners](https://gourmetcrypto.substack.com/p/layer-2-for-beginners) - Gourmet Crypto
 - [Layer 2 Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/) - Ethereum
@@ -55,6 +55,9 @@
 - [New sharding design with tight beacon and shard block integration](https://notes.ethereum.org/@dankrad/new_sharding) - Dankrad
 - [Simple approach to incentivizing shard staggering](https://ethresear.ch/t/simple-approach-to-incentivizing-shard-staggering/9149) - Ethereum Research
 - [EIP-4844: Proto-Danksharding](https://www.eip4844.com/) - liam.eth
+
+## Settlement layer
+* [An open, modular stack for EVM-based applications using Celestia, Evmos, and Cosmos](https://forum.celestia.org/t/an-open-modular-stack-for-evm-based-applications-using-celestia-evmos-and-cosmos/89) - Mustafa Al-Bassam
 
 ## Consensus layer
 * [Formalizing distributed consensus](https://docs.google.com/document/d/13_FSQ1Koq8uLvqTaSvZdb6OT2SpUZZq53vFiiDQj4qM/edit#heading=h.41gzm84cb1et)
