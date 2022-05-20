@@ -19,6 +19,7 @@
 
 ## Execution Layer
 - [Increasing scalability of the EVM for rollups by restricting state and contract set](https://forum.celestia.org/t/increasing-scalability-of-the-evm-for-rollups-by-restricting-state-and-contract-set/78#cache-improvement-through-predictable-access-5) - Mustafa Al-Bassam
+- [The Fuel for Fast Execution](https://maven11.substack.com/p/the-fuel-for-fast-execution?s=r) - Maven11
 #### (1) Rollup
 - [Layer-2 for Beginners](https://gourmetcrypto.substack.com/p/layer-2-for-beginners) - Gourmet Crypto
 - [Layer 2 Rollups](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/) - Ethereum
