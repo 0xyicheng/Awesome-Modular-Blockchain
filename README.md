@@ -39,6 +39,7 @@
 #### (1)Data availability
 - [What Is Data Availability?](https://coinmarketcap.com/alexandria/article/what-is-data-availability) - CoinMarketCap
 - [Data availability sampling in practice](https://notes.ethereum.org/@vbuterin/r1v8VCULP) - Vitalik Butern
+- [Data availability checks](https://dankradfeist.de/ethereum/2019/12/20/data-availability-checks.html) - Dankrad Feist
 - [Separating the Monolith](https://mirror.xyz/pseudotheos.eth/SAg6yMZqd-z-BzFsKjLpZaZ9Rbv2ZEMtYT7mwvDiH94) - pseudotheos
 - [A note on data availability and erasure coding](https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding) - Ethereum Research
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/pdf/1809.09044.pdf) - Mustafa Al-Bassam et al.
