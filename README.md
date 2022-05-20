@@ -52,11 +52,12 @@
 #### (3)Sharding
 - [Why sharding is great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html#improving-sharding-with-better-security-models) - Vitalik
 - [Data Sharding Roadmap - The rollupooors' perspective](https://soundcloud.com/daniel-goldman-84321635/data-sharding-roadmap-a-rollups-perspective?utm_campaign=social_sharing&utm_source=mobi&utm_terms=social_sharing_on_mobi.control) - Daniel Goldman
-- [New sharding design with tight beacon and shard block integration](https://notes.ethereum.org/@dankrad/new_sharding) - Dankrad
+- [New sharding design with tight beacon and shard block integration](https://notes.ethereum.org/@dankrad/new_sharding) - Dankrad Feist
 - [Simple approach to incentivizing shard staggering](https://ethresear.ch/t/simple-approach-to-incentivizing-shard-staggering/9149) - Ethereum Research
 - [EIP-4844: Proto-Danksharding](https://www.eip4844.com/) - liam.eth
 - [Proto-Danksharding FAQ](https://notes.ethereum.org/@vbuterin/proto_danksharding_faq#If-data-is-deleted-after-30-days-how-would-users-access-older-blobs) - Vitalik
 - [Pragmatic signature aggregation with BLS](https://ethresear.ch/t/pragmatic-signature-aggregation-with-bls/2105) - JustinDrake
+- [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html) - Dankrad Feist
 
 ## Settlement layer
 * [An open, modular stack for EVM-based applications using Celestia, Evmos, and Cosmos](https://forum.celestia.org/t/an-open-modular-stack-for-evm-based-applications-using-celestia-evmos-and-cosmos/89) - Mustafa Al-Bassam
