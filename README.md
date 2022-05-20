@@ -56,6 +56,7 @@
 - [Simple approach to incentivizing shard staggering](https://ethresear.ch/t/simple-approach-to-incentivizing-shard-staggering/9149) - Ethereum Research
 - [EIP-4844: Proto-Danksharding](https://www.eip4844.com/) - liam.eth
 - [Proto-Danksharding FAQ](https://notes.ethereum.org/@vbuterin/proto_danksharding_faq#If-data-is-deleted-after-30-days-how-would-users-access-older-blobs) - Vitalik
+- [Pragmatic signature aggregation with BLS](https://ethresear.ch/t/pragmatic-signature-aggregation-with-bls/2105) - JustinDrake
 
 ## Settlement layer
 * [An open, modular stack for EVM-based applications using Celestia, Evmos, and Cosmos](https://forum.celestia.org/t/an-open-modular-stack-for-evm-based-applications-using-celestia-evmos-and-cosmos/89) - Mustafa Al-Bassam
