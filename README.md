@@ -70,5 +70,6 @@
 ## Consensus layer
 * [Formalizing distributed consensus](https://docs.google.com/document/d/13_FSQ1Koq8uLvqTaSvZdb6OT2SpUZZq53vFiiDQj4qM/edit#heading=h.41gzm84cb1et)
 * [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance#Solution-2-can-we-still-use-proposers-%E2%80%9Chybrid-PBS%E2%80%9D-but-only-for-inclusion-of-last-resort) - Vitalik
+* [A Philosophy of Blockchain Validation](https://vitalik.ca/general/2020/08/17/philosophy.html) - Vitalik
 * [Proof of Stake: How I Learned to Love Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) - Vitalik
 * [MEV and Me](https://research.paradigm.xyz/MEV) - Paradigm
