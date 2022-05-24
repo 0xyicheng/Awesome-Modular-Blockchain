@@ -63,6 +63,10 @@
 - [Pragmatic signature aggregation with BLS](https://ethresear.ch/t/pragmatic-signature-aggregation-with-bls/2105) - JustinDrake
 - [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html) - Dankrad Feist
 - [Sidechains vs Plasma vs Sharding](https://vitalik.ca/general/2019/06/12/plasma_vs_sharding.html) - Vitalik
+- [“Dude, what’s the Danksharding situation?” Workshop](https://www.youtube.com/watch?v=e9oudTr5BE4) - Ethereum Foundation
+- [Easy proof of equivalence between multiple polynomial commitment schemes to the same data](https://ethresear.ch/t/easy-proof-of-equivalence-between-multiple-polynomial-commitment-schemes-to-the-same-data/8188) - Vitalik
+- [Simple Summary](https://notes.ethereum.org/@vbuterin/blob_transactions#How-rollups-would-function) - Vitalik
+
 
 ## Settlement layer
 * [An open, modular stack for EVM-based applications using Celestia, Evmos, and Cosmos](https://forum.celestia.org/t/an-open-modular-stack-for-evm-based-applications-using-celestia-evmos-and-cosmos/89) - Mustafa Al-Bassam
